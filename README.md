@@ -1,2 +1,0 @@
-# BlanerKrisztianEsKovacsMartonEgyuttMukodesEsKollaboraciosFeladatMegoldasa
-Blaner Krisztián és Kovács Márton A Budapesti Műszaki Szakképzési Centrum Egressy Gábor Két Tanítási Nyelvű Technikum tizenkettedikes kéttanyelvű osztály tanulói együttműködési kollaboráció fejlesztő feladatot végez
