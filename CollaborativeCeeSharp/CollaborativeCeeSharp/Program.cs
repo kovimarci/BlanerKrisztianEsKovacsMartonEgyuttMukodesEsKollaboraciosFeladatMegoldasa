@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("szopjd le az anyád");
+            Console.WriteLine("hey hey");
         }
     }
 }
