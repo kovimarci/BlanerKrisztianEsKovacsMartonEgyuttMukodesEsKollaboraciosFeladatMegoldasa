@@ -12,6 +12,22 @@ namespace JustWorkAlreadyDumbassGitShit
     internal class Cat
     {
         public string Name { get; set; }
-        public string Colour { get; set; }
+        public string Color { get; set; }
+
+        public Cat(string name, string color)
+        {
+            Name = name;
+            Color = color;
+        }
+
+        public void Meow()
+        {
+            Console.WriteLine("Meow");
+        }
+
+        public override string ToString()
+        {
+            return $"Cat {Name} {Color}";
+        }
     }
 }
