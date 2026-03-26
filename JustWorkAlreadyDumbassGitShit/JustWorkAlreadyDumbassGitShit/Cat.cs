@@ -11,7 +11,13 @@ namespace JustWorkAlreadyDumbassGitShit
     /// </summary>
     internal class Cat
     {
-        public string Name { get; set; }
+        /// <summary>
+        /// Name of the cat
+        /// </summary>
+        public string Name { get; set; } // ^.^ BCAS
+        /// <summary>
+        /// Color of the cat
+        /// </summary>
         public string Color { get; set; }
         /// <summary>
         /// Creates an instance of Cat

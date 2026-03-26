@@ -5,6 +5,8 @@
         static void Main()
         {
             Cat JaniMacskaja = new("Cirmi", "Red");
+
+            JaniMacskaja.Meow();
         }
     }
 }
