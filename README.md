@@ -1,2 +1,2 @@
 # BlanerKrisztianEsKovacsMartonEgyuttMukodesEsKollaboraciosFeladatMegoldasa
-krisz egy negro írd ezt át!!!1!!
+Blaner Krisztián és Kovács Márton A Budapesti Műszaki Szakképzési Centrum Egressy Gábor Két Tanítási Nyelvű Technikum tizenkettedikes kéttanyelvű osztály tanulói együttműködési kollaboráció fejlesztő feladatot végez
